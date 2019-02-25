@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quotes Writer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Replace with your own interstitial ad unit id. -->
+    <string name="ad_unit_id">ca-app-pub-5005186563660475~9542343148</string>
+
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-5005186563660475~9542343148</string>
+    <string name="title_activity_activity_setting">Setting</string>
+
+    <string-array name="default_font">
+        <item>Aller.ttf</item>
+        <item>Amatic.ttf</item>
+        <item>Bebas Neue.ttf</item>
+        <item>Chunkfive.otf</item>
+        <item>Colaborate.otf</item>
+        <item>GoodDog.otf</item>
+        <item>GreatVibes.otf</item>
+        <item>Open Sans.ttf</item>
+        <item>Pacifico.ttf</item>
+        <item>Quicksand.otf</item>
+        <item>Secret Recipe.ttf</item>
+    </string-array>
+
+    <string-array name="text_position">
+        <item>left | top</item>
+        <item>center | top</item>
+        <item>right | top</item>
+        <item>left | center</item>
+        <item>center | center</item>
+        <item>right | center</item>
+        <item>left | bottom</item>
+        <item>center | bottom</item>
+        <item>right | bottom</item>
+    </string-array>
+
+    <string name="title_activity_activity_edit_font">Edit Font</string>
+
+    <string name="about_text">Quotes card maker is an android application to Create simple and clear quote card, write main words and the author.This is developed by Megrisoft Ltd.</string>
+    <string name="title_activity_activity_drag">ActivityDrag</string>
+
+    <string name="dialog_title_permission">Permission confirmation</string>
+    <string name="dialog_content_permission">
+        To activate all feature from this app you need to granted all required permission.
+        \nGo to app permission setting ?
+    </string>
+
+</resources>

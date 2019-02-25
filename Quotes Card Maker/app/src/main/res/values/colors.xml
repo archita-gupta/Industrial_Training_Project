@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--material color-->
+    <color name="colorPrimary">#1D2127</color>
+    <color name="colorPrimaryDark">#0090E3</color>
+    <color name="colorPrimaryLight">#54C0FF</color>
+
+    <color name="colorAccent">#F4B300</color>
+    <color name="colorAccentDark">#E0A400</color>
+    <color name="colorAccentLight">#F7C640</color>
+
+    <color name="grey_hard">#96989A</color>
+    <color name="grey_medium">#BDBFC1</color>
+    <color name="grey_soft">#F5F5F5</color>
+
+    <color name="grey_bg">#E6E6E6</color>
+
+    <!--other color-->
+    <color name="white">#ffffff</color>
+
+    <!-- basic color -->
+    <color name="black"		>#000000</color>
+    
+    <!-- other color -->
+    <color name="soft_grey">#EBEBEB</color>
+    <color name="soft_grey2">#DBDBDB</color>
+    
+     <!-- Button color -->
+    <color name="button_color">#ffffff</color>  <!-- style 1,2 -->
+    <color name="button_press">#EBEBEB</color>  <!-- style 1,2 -->
+    <color name="button_outline_border">#00AFEF</color>  <!-- style 3,4 -->
+    <color name="button_outline_press">#00AFEF</color>  <!-- style 3,4 -->
+    <color name="button_text_color">#00AFEF</color>  <!-- style 3,4 -->
+    
+    
+    
+    <string-array name="arr_main_color_name">
+        <item >White</item>
+        <item >Red</item>
+        <item >Pink</item>
+        <item >Purple</item>
+        <item >Deep Purple</item>
+        <item >Indigo</item>
+        <item >Blue</item>
+        
+        <item >Light Blue</item>
+        <item >Cyan</item>
+        <item >Teal</item>
+        <item >Green</item>
+        <item >Light Green</item>
+        <item >Lime</item>
+        
+        <item >Amber</item>
+        <item >Orange</item>
+        <item >Deep Orange</item>
+        <item >Blue Grey</item>
+        <item >Brown</item>
+        <item >Black</item>
+    </string-array>
+    
+     <string-array name="arr_main_color_code">
+        <item >#FFFFFF</item>
+        <item >#F44336</item>
+        <item >#EC407A</item>
+        <item >#9C27B0</item>
+        <item >#673AB7</item>
+        <item >#3F51B5</item>
+        <item >#2196F3</item>
+        
+        <item >#03A9F4</item>
+        <item >#00BCD4</item>
+        <item >#009688</item>
+        <item >#4CAF50</item>
+        <item >#8BC34A</item>
+        <item >#CDDC39</item>
+        
+        <item >#FFC107</item>
+        <item >#FF9800</item>
+        <item >#FF5722</item>
+        <item >#795548</item>
+        <item >#607D8B</item>
+        <item >#000000</item>
+    </string-array>
+</resources>

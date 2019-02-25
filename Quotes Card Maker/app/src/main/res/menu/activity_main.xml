@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_gallery"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_gallery"
+        android:title="Gallery"/>
+
+    <item
+        android:id="@+id/action_add_font"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Add Font"/>
+
+    <item
+        android:id="@+id/action_rate"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Rate This App"/>
+
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="About"/>
+
+</menu>
